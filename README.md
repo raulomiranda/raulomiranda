@@ -1,4 +1,4 @@
-# Olá, me chamo Raul ! 
+# Olá, me chamo Raul! 
 ### Bem vindo ao meu perfil GitHub 👋
 
  - Brazil - São Paulo, SP </a> 
@@ -25,12 +25,11 @@
           
 
 ## Próximos estudos
-
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 <img laoding="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
-          
+</div>     
           
           
           
